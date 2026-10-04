@@ -1,6 +1,6 @@
 # Statistical Mechanics, Optical and Thermal Studies II
 
-This repository continues *Statistical Mechanics, Optical and Thermal Studies* and collects further studies on statistical mechanics, optical and thermal phenomena, and their underlying physical.
+This repository continues *Statistical Mechanics, Optical and Thermal Studies* and collects further studies on statistical mechanics, optical and thermal phenomena, and their underlying physical principles.
 ## Papers
 
 ### On the Meaning of Temperature and Pressure in Statistical Mechanics
