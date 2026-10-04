@@ -7,4 +7,4 @@ This repository continues *Statistical Mechanics, Optical and Thermal Studies* a
 
 A study of the physical and statistical meanings of temperature and pressure in statistical mechanics.
 
-**DOI:** 10.5281/zenodo.23019118
+**DOI:** https://doi.org/10.5281/zenodo.23019118
