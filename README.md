@@ -4,7 +4,6 @@ This repository continues [*Statistical Mechanics, Optical and Thermal Studies*]
 
 ## Repository DOI
 All versions of this repository can be cited using:
-**DOI:** https://doi.org/10.5281/zenodo.23122413
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122413.svg)](https://doi.org/10.5281/zenodo.23122413)
 
 **Author:** Bo Yang  
