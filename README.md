@@ -1,6 +1,6 @@
 # Statistical Mechanics, Optical and Thermal Studies II
 
-This repository continues [*Statistical Mechanics, Optical and Thermal Studies*](第一仓库链接) and collects further studies on statistical mechanics, optical and thermal phenomena, and their underlying physical principles.
+This repository continues [*[Statistical Mechanics, Optical and Thermal Studies](https://github.com/yangbo396y/statistical-mechanics-optical-thermal-studies)*](第一仓库链接) and collects further studies on statistical mechanics, optical and thermal phenomena, and their underlying physical principles.
 
 ## Repository DOI
 All versions of this repository can be cited using: 
